@@ -1,0 +1,14 @@
+.row{
+  background-color: #272727;
+  padding: 50px;
+  color: aliceblue;
+  font-family: Helvetica;
+}
+.contenedor{
+  width: auto;
+}
+
+.parte1, .parte2{
+  display:inline-block;
+  text-align: justify;
+}
